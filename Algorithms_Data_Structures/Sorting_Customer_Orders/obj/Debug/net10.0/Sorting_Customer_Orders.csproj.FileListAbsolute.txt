@@ -1,0 +1,15 @@
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\Sorting_Customer_Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\Sorting_Customer_Orders.AssemblyInfoInputs.cache
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\Sorting_Customer_Orders.AssemblyInfo.cs
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\Sorting_Customer_Orders.csproj.CoreCompileInputs.cache
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\Sorting_Customer_Orders.sourcelink.json
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\bin\Debug\net10.0\Sorting_Customer_Orders.exe
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\bin\Debug\net10.0\Sorting_Customer_Orders.deps.json
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\bin\Debug\net10.0\Sorting_Customer_Orders.runtimeconfig.json
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\bin\Debug\net10.0\Sorting_Customer_Orders.dll
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\bin\Debug\net10.0\Sorting_Customer_Orders.pdb
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\Sorting_Customer_Orders.dll
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\refint\Sorting_Customer_Orders.dll
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\Sorting_Customer_Orders.pdb
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\Sorting_Customer_Orders.genruntimeconfig.cache
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Sorting_Customer_Orders\obj\Debug\net10.0\ref\Sorting_Customer_Orders.dll

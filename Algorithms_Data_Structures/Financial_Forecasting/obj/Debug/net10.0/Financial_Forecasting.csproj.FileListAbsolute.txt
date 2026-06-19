@@ -1,0 +1,15 @@
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\bin\Debug\net10.0\Financial_Forecasting.exe
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\bin\Debug\net10.0\Financial_Forecasting.deps.json
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\bin\Debug\net10.0\Financial_Forecasting.runtimeconfig.json
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\bin\Debug\net10.0\Financial_Forecasting.dll
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\bin\Debug\net10.0\Financial_Forecasting.pdb
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\Financial_Forecasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\Financial_Forecasting.AssemblyInfoInputs.cache
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\Financial_Forecasting.AssemblyInfo.cs
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\Financial_Forecasting.csproj.CoreCompileInputs.cache
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\Financial_Forecasting.sourcelink.json
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\Financial_Forecasting.dll
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\refint\Financial_Forecasting.dll
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\Financial_Forecasting.pdb
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\Financial_Forecasting.genruntimeconfig.cache
+D:\Coginzant\Deepskilling_Solution\Algorithms_Data_Structures\Financial_Forecasting\obj\Debug\net10.0\ref\Financial_Forecasting.dll
