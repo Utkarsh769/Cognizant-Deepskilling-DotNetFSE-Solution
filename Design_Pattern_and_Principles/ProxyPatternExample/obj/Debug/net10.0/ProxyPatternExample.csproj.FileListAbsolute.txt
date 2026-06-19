@@ -1,0 +1,15 @@
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.exe
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.deps.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.runtimeconfig.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.pdb
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.AssemblyInfoInputs.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.AssemblyInfo.cs
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.csproj.CoreCompileInputs.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.sourcelink.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\refint\ProxyPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.pdb
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.genruntimeconfig.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\ProxyPatternExample\obj\Debug\net10.0\ref\ProxyPatternExample.dll

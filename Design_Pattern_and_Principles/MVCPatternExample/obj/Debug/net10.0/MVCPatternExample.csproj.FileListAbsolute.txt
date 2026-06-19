@@ -1,0 +1,15 @@
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.exe
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.deps.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.runtimeconfig.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.pdb
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.AssemblyInfoInputs.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.AssemblyInfo.cs
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.csproj.CoreCompileInputs.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.sourcelink.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\refint\MVCPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.pdb
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.genruntimeconfig.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\MVCPatternExample\obj\Debug\net10.0\ref\MVCPatternExample.dll

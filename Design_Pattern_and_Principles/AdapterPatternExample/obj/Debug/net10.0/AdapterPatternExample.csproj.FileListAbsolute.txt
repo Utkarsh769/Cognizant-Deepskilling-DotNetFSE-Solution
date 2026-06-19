@@ -1,0 +1,15 @@
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.exe
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.deps.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.runtimeconfig.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.pdb
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.AssemblyInfoInputs.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.AssemblyInfo.cs
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.csproj.CoreCompileInputs.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.sourcelink.json
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\refint\AdapterPatternExample.dll
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.pdb
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.genruntimeconfig.cache
+D:\Coginzant\Deepskilling_Solution\Design_Pattern_and_Principles\AdapterPatternExample\obj\Debug\net10.0\ref\AdapterPatternExample.dll
