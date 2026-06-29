@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCPatternExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f1a018806a332e2d22fc48af326b82171d98e32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38ca5ac5232596090cef0e9aa7b45f83a80bcd12")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCPatternExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCPatternExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
