@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coginzant\\Deepskilling_Solution\\Algorithms_Data_Structures\\Task_Management_System\\Task_Management_System.csproj": {}
+    "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\Algorithms_Data_Structures\\Task_Management_System\\Task_Management_System.csproj": {}
   },
   "projects": {
-    "D:\\Coginzant\\Deepskilling_Solution\\Algorithms_Data_Structures\\Task_Management_System\\Task_Management_System.csproj": {
+    "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\Algorithms_Data_Structures\\Task_Management_System\\Task_Management_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coginzant\\Deepskilling_Solution\\Algorithms_Data_Structures\\Task_Management_System\\Task_Management_System.csproj",
+        "projectUniqueName": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\Algorithms_Data_Structures\\Task_Management_System\\Task_Management_System.csproj",
         "projectName": "Task_Management_System",
-        "projectPath": "D:\\Coginzant\\Deepskilling_Solution\\Algorithms_Data_Structures\\Task_Management_System\\Task_Management_System.csproj",
+        "projectPath": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\Algorithms_Data_Structures\\Task_Management_System\\Task_Management_System.csproj",
         "packagesPath": "C:\\Users\\utkar\\.nuget\\packages\\",
-        "outputPath": "D:\\Coginzant\\Deepskilling_Solution\\Algorithms_Data_Structures\\Task_Management_System\\obj\\",
+        "outputPath": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\Algorithms_Data_Structures\\Task_Management_System\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\utkar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\utkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

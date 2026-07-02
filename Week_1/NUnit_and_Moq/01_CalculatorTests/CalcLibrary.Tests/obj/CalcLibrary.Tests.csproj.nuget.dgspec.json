@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj": {}
+    "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj": {
+    "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+        "projectUniqueName": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
         "projectName": "CalcLibrary.Tests",
-        "projectPath": "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+        "projectPath": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
         "packagesPath": "C:\\Users\\utkar\\.nuget\\packages\\",
-        "outputPath": "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\obj\\",
+        "outputPath": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\utkar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\utkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -27,8 +33,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
-                "projectPath": "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj"
+              "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
+                "projectPath": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj"
               }
             }
           }
@@ -85,15 +91,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.27, 8.0.27]"
+              "version": "[8.0.28, 8.0.28]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.27, 8.0.27]"
+              "version": "[8.0.28, 8.0.28]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.27, 8.0.27]"
+              "version": "[8.0.28, 8.0.28]"
             }
           ],
           "frameworkReferences": {
@@ -101,26 +107,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
+    "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+        "projectUniqueName": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
         "projectName": "CalcLibrary",
-        "projectPath": "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+        "projectPath": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
         "packagesPath": "C:\\Users\\utkar\\.nuget\\packages\\",
-        "outputPath": "D:\\Coginzant\\Deepskilling_Solution\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\obj\\",
+        "outputPath": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary\\CalcLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\utkar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\utkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -165,7 +177,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
