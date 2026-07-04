@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Sk1IpJTX9Do=",
+  "dgSpecHash": "7wOVvqcN8Ao=",
   "success": true,
   "projectFilePath": "D:\\Coginzant\\Deepskilling_Solution\\Week_1\\NUnit_and_Moq\\01_CalculatorTests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
   "expectedPackageFiles": [
@@ -22,10 +22,7 @@
     "C:\\Users\\utkar\\.nuget\\packages\\nunit3testadapter\\6.2.0\\nunit3testadapter.6.2.0.nupkg.sha512",
     "C:\\Users\\utkar\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
     "C:\\Users\\utkar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
-    "C:\\Users\\utkar\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
-    "C:\\Users\\utkar\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
-    "C:\\Users\\utkar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
-    "C:\\Users\\utkar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+    "C:\\Users\\utkar\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

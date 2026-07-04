@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|d:\\coginzant\\deepskilling_solution\\week_4_microservices\\jwtauthentication\\jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|d:\\coginzant\\deepskilling_solution\\week_4_microservices\\jwtauthentication\\jwtauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|d:\\coginzant\\deepskilling_solution\\week_4_microservices\\jwtauthentication\\jwtauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|d:\\coginzant\\deepskilling_solution\\week_4_microservices\\jwtauthentication\\jwtauthentication\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|d:\\coginzant\\deepskilling_solution\\week_4_microservices\\jwtauthentication\\jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|d:\\coginzant\\deepskilling_solution\\week_4_microservices\\jwtauthentication\\jwtauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|d:\\coginzant\\deepskilling_solution\\week_4_microservices\\jwtauthentication\\jwtauthentication\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C27D09-2165-4FEC-8017-9C278B8DBD36}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuthentication\\appsettings.json",
+              "ToolTip": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\appsettings.json",
+              "RelativeToolTip": "JWTAuthentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T15:37:42.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "JWTAuthentication\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T18:20:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Controllers\\SecureController.cs",
+              "ToolTip": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "JWTAuthentication\\Controllers\\SecureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T15:52:01.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTAuthentication\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T15:38:53.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Program.cs",
+              "ToolTip": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Program.cs",
+              "RelativeToolTip": "JWTAuthentication\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T15:37:58.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\User.cs",
+              "ToolTip": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Models\\User.cs",
+              "RelativeToolTip": "JWTAuthentication\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T15:37:21.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Coginzant\\Deepskilling_Solution\\Week_4_Microservices\\JWTAuthentication\\JWTAuthentication\\Models\\LoginModel.cs",
+              "RelativeToolTip": "JWTAuthentication\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T15:36:50.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
