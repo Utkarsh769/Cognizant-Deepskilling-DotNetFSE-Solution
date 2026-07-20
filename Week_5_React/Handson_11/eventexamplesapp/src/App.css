@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+
+  margin: 40px;
+}
+
+button {
+  display: block;
+
+  margin-bottom: 10px;
+
+  padding: 8px 15px;
+
+  cursor: pointer;
+}
+
+.currency {
+  margin-top: 40px;
+}
+
+input {
+  margin-left: 15px;
+
+  padding: 5px;
+}
+
+label {
+  display: inline-block;
+
+  width: 80px;
+}
+
+h1 {
+  color: green;
+}

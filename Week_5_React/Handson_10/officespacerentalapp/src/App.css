@@ -1,0 +1,27 @@
+body{
+  margin:0;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+  margin:40px;
+}
+
+.card{
+  margin-bottom:40px;
+}
+
+img{
+  width:250px;
+  height:250px;
+  object-fit:cover;
+  border-radius:8px;
+}
+
+h1{
+  margin-bottom:40px;
+}
+
+h2{
+  margin-top:20px;
+}
