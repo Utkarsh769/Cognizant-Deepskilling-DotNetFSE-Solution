@@ -1,0 +1,82 @@
+.course-card{
+
+    padding:20px;
+
+    margin:20px 0;
+
+    border-radius:10px;
+
+    background:white;
+
+    box-shadow:0 4px 10px rgba(0,0,0,.15);
+
+    transition:.3s;
+
+}
+
+.course-card:hover{
+
+    transform:translateY(-4px);
+
+}
+
+.passed{
+
+    background:#e8f5e9;
+
+}
+
+.failed{
+
+    background:#ffebee;
+
+}
+
+.pending{
+
+    background:#fff8e1;
+
+}
+
+button{
+
+    margin-top:15px;
+
+    background:#1976d2;
+
+    color:white;
+
+    border:none;
+
+    padding:10px 20px;
+
+    border-radius:6px;
+
+    cursor:pointer;
+
+}
+
+button:hover{
+
+    background:#0d47a1;
+
+}
+.expanded{
+
+    min-height:320px;
+
+}
+
+.details-btn{
+
+    margin-left:10px;
+
+    background:#43a047;
+
+}
+
+.details-btn:hover{
+
+    background:#2e7d32;
+
+}

@@ -1,0 +1,48 @@
+<h2>Available Courses</h2>
+
+<div class="action-buttons">
+
+    <button (click)="addSampleCourse()">
+        Add Sample Course
+    </button>
+
+    <button (click)="updateFirstCourse()">
+        Update First Course
+    </button>
+
+    <button (click)="deleteLastCourse()">
+        Delete Last Course
+    </button>
+
+</div>
+
+<br>
+
+<p *ngIf="loading$ | async">
+    Loading courses...
+</p>
+
+<div *ngIf="!(loading$ | async)">
+
+    <div *ngIf="courses$ | async as courses">
+
+        <app-course-card
+
+            *ngFor="let course of courses;
+                     trackBy: trackByCourseId"
+
+            [course]="course">
+
+        </app-course-card>
+
+    </div>
+
+</div>
+
+<br>
+
+<button routerLink="/enroll">
+
+    Go to Enrollment Form
+
+</button>

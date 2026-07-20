@@ -1,0 +1,49 @@
+.container{
+
+    width:80%;
+    margin:30px auto;
+    font-family:Arial;
+
+}
+
+h1{
+
+    color:#1976d2;
+
+}
+
+button{
+
+    padding:10px 25px;
+    border:none;
+    background:#1976d2;
+    color:white;
+    cursor:pointer;
+    border-radius:5px;
+    margin-top:15px;
+
+}
+
+button:disabled{
+
+    background:gray;
+    cursor:not-allowed;
+
+}
+
+input{
+
+    width:350px;
+    padding:10px;
+    margin-top:15px;
+    border:1px solid #ccc;
+    border-radius:4px;
+
+}
+
+.message{
+
+    color:green;
+    font-weight:bold;
+
+}

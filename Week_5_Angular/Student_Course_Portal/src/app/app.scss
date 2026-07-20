@@ -1,0 +1,27 @@
+.container {
+  max-width: 1400px;
+  margin: auto;
+  padding: 30px;
+}
+
+.section {
+  background: white;
+  border-radius: 16px;
+  padding: 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 8px 25px rgba(0,0,0,.08);
+}
+
+.profile-row {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 25px;
+}
+
+hr {
+  display: none;
+}
+
+body {
+  background: #eef4ff;
+}

@@ -1,0 +1,51 @@
+<div class="container">
+
+    <h1>{{ portalName }}</h1>
+
+    <p>
+        Welcome to the Student Course Portal developed using Angular.
+    </p>
+
+    <p>
+        Total Courses Available :
+        <strong>{{ totalCourses }}</strong>
+    </p>
+
+    <button
+        [disabled]="!isPortalActive"
+        (click)="onEnrollClick()">
+
+        Enroll Now
+
+    </button>
+
+    <p class="message">
+        {{ message }}
+    </p>
+
+    <hr>
+
+    <h3>Course Search</h3>
+
+    <input
+
+    type="text"
+
+    placeholder="Search Course"
+
+    [(ngModel)]="searchTerm">
+
+<button
+
+    (click)="searchCourse()">
+
+    Search
+
+</button>
+
+    <p>
+        Searching for:
+        <strong>{{ searchTerm }}</strong>
+    </p>
+
+</div>

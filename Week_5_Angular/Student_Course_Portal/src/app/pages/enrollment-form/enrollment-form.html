@@ -1,0 +1,111 @@
+<div class="form-card">
+
+    <h2>Student Enrollment Form</h2>
+
+    <form #enrollForm="ngForm" (ngSubmit)="onSubmit()">
+
+        <!-- Name -->
+
+        <label for="name">Name</label>
+
+        <input
+            id="name"
+            type="text"
+            name="name"
+            required
+            minlength="3"
+            [(ngModel)]="student.name"
+            #name="ngModel">
+
+        <div class="error"
+             *ngIf="name.touched && name.errors?.['required']">
+
+            Name is required.
+
+        </div>
+
+        <div class="error"
+             *ngIf="name.touched && name.errors?.['minlength']">
+
+            Name must contain at least 3 characters.
+
+        </div>
+
+        <!-- Email -->
+
+        <label for="email">Email</label>
+
+        <input
+            id="email"
+            type="email"
+            name="email"
+            required
+            email
+            [(ngModel)]="student.email"
+            #email="ngModel">
+
+        <div class="error"
+             *ngIf="email.touched && email.errors?.['required']">
+
+            Email is required.
+
+        </div>
+
+        <div class="error"
+             *ngIf="email.touched && email.errors?.['email']">
+
+            Please enter a valid email address.
+
+        </div>
+
+        <!-- Course -->
+
+        <label for="course">Course</label>
+
+        <select
+            id="course"
+            name="course"
+            required
+            [(ngModel)]="student.course"
+            #course="ngModel">
+
+            <option value="">-- Select Course --</option>
+            <option>Angular</option>
+            <option>ASP.NET Core</option>
+            <option>Entity Framework</option>
+            <option>SQL Server</option>
+
+        </select>
+
+        <div class="error"
+             *ngIf="course.touched && course.errors?.['required']">
+
+            Please select a course.
+
+        </div>
+
+        <button
+            type="submit"
+            [disabled]="enrollForm.invalid">
+
+            Enroll
+
+        </button>
+
+    </form>
+
+    <div class="success" *ngIf="submitted">
+
+        <h3>✅ Enrollment Successful!</h3>
+
+        <hr>
+
+        <p><strong>Name:</strong> {{ student.name }}</p>
+
+        <p><strong>Email:</strong> {{ student.email }}</p>
+
+        <p><strong>Course:</strong> {{ student.course }}</p>
+
+    </div>
+
+</div>

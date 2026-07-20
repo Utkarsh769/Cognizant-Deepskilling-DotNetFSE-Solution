@@ -1,0 +1,35 @@
+<h2>Student Profile</h2>
+
+<p><b>Name:</b> Admin Student</p>
+
+<p><b>Batch:</b> Cognizant DN 5.0</p>
+
+<hr>
+
+<h3>Enrolled Courses</h3>
+
+<div *ngIf="enrolledCourses$ | async as courses">
+
+    <div *ngIf="courses.length; else noCourses">
+
+        <ul>
+
+            <li *ngFor="let course of courses">
+
+                {{ course.name }}
+
+                ({{ course.code }})
+
+            </li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+<ng-template #noCourses>
+
+    <p>No enrolled courses.</p>
+
+</ng-template>
