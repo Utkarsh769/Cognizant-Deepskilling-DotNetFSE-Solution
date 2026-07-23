@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Cognizant+Digital+Nurture+5.0;.NET+Full+Stack+Engineer+%E2%80%94+Training+Repo" alt="Typing SVG" />
 </h1>
 
-### *A complete, week-by-week hands-on journey through modern .NET development*
+### *A complete, week-by-week hands-on journey through modern .NET & Full Stack development*
 
 <br/>
 
@@ -16,9 +16,9 @@
 <td align="center"><b>📋 License</b></td>
 </tr>
 <tr>
-<td align="center">4 Weeks</td>
-<td align="center">25+ Hands-on Labs</td>
-<td align="center">C# · .NET 8 · EF Core · JWT</td>
+<td align="center">6 Weeks</td>
+<td align="center">60+ Hands-on Labs</td>
+<td align="center">C# · .NET 8 · React · Angular · Git</td>
 <td align="center">MIT</td>
 </tr>
 </table>
@@ -43,17 +43,17 @@
 ## 🗺️ Learning Roadmap
 
 ```
-  WEEK 1                WEEK 2                WEEK 3                WEEK 4
-─────────────        ─────────────        ─────────────        ─────────────
- Algorithms           EF Core               Web API              Microservices
- DataStructures       Code-First            REST + Swagger        JWT Auth
- Design Patterns      LINQ + CRUD           CORS + Kafka          Role-Based
- SOLID + DI           Migrations            JWT in APIs           Token Expiry
- NUnit + Moq          Relationships         Custom Filters        Security
- SQL Server           Concurrency           CRUD via API          Graceful Errors
-     │                    │                    │                    │
-     ▼                    ▼                    ▼                    ▼
-  Foundation          Data Layer           API Layer           Security Layer
+  WEEK 1           WEEK 2           WEEK 3           WEEK 4           WEEK 5           WEEK 6
+───────────      ───────────      ───────────      ───────────      ───────────      ───────────
+ Algorithms       EF Core          Web API          Microservices    React JS         Git & VCS
+ DataStructures   Code-First       REST+Swagger     JWT Auth         Angular v20      Config & Init
+ Design Patterns  LINQ + CRUD      CORS + Kafka     Role-Based       Components       .gitignore
+ SOLID + DI       Migrations       JWT in APIs      Token Expiry     Routing          Branching
+ NUnit + Moq      Relationships    Custom Filters   Security         State Mgmt       Merge Conflicts
+ SQL Server       Concurrency      CRUD via API     Graceful Errors  HTTP + NgRx      Remote Sync
+     │                │                │                │                │                │
+     ▼                ▼                ▼                ▼                ▼                ▼
+  Foundation      Data Layer       API Layer       Security Layer  Frontend Layer   DevOps Layer
 ```
 
 </div>
@@ -64,7 +64,7 @@
 
 This is a structured, **week-by-week portfolio** of every lab and exercise completed during **Cognizant's Digital Nurture 5.0 (.NET FSE)** training program.
 
-It covers the full spectrum of modern .NET development — starting from core algorithms and SOLID design principles, progressing through Entity Framework Core Code-First workflows, building and documenting production-grade REST APIs, integrating Kafka for event-driven messaging, and finally securing microservices with JWT authentication and role-based authorization.
+It covers the full spectrum of modern Full Stack development — starting from core algorithms and SOLID design principles, progressing through Entity Framework Core Code-First workflows, building production-grade REST APIs, integrating Kafka for event-driven messaging, securing microservices with JWT authentication, building rich frontend SPAs with **React JS** and **Angular v20**, and finally mastering **Git version control** workflows including configuration, ignoring files, branching, merging, conflict resolution, and remote collaboration.
 
 > 💡 Every folder has **fully working, runnable code.** Clone → Open in Visual Studio 2022 → Run.
 
@@ -112,11 +112,46 @@ Cognizant_DN5_DotNetFSE
 │   ├── 🔐 Lab5_JWT_Authentication    →  CORS · JWT · Authorization
 │   └── 📨 Lab6_Kafka_Integration     →  Kafka Messaging with C#
 │
-└── 📅 Week-4  ── Microservices & JWT Security
-    ├── 🔑 Ex1_JWT_Authentication     →  JWT Auth in Microservices
-    ├── 🛡️  Ex2_Secure_Endpoint        →  Protecting API Endpoints
-    ├── 👑 Ex3_Role_Based_Authorization → Admin Role · Claims-based Access
-    └── ⏱️  Ex4_Token_Expiry_Handling   →  Expired Token · Custom Error Response
+├── 📅 Week-4  ── Microservices & JWT Security
+│   ├── 🔑 Ex1_JWT_Authentication     →  JWT Auth in Microservices
+│   ├── 🛡️  Ex2_Secure_Endpoint        →  Protecting API Endpoints
+│   ├── 👑 Ex3_Role_Based_Authorization → Admin Role · Claims-based Access
+│   └── ⏱️  Ex4_Token_Expiry_Handling   →  Expired Token · Custom Error Response
+│
+├── 📅 Week-5  ── Frontend Development
+│   ├── ⚛️  ReactJS/
+│   │   ├── HOL1_FirstReactApp         →  SPA Setup · create-react-app
+│   │   ├── HOL2_Components            →  Class & Function Components
+│   │   ├── HOL3_FunctionalComponents  →  Functional Components · CSS Modules
+│   │   ├── HOL4_Lifecycle             →  componentDidMount · componentDidCatch
+│   │   ├── HOL5_Styling               →  CSS Modules · Inline Styles
+│   │   ├── HOL6_Routing               →  React Router · Navigation · URL Params
+│   │   ├── HOL7_Props                 →  Props · Default Props · ReactDOM.render
+│   │   ├── HOL8_State                 →  State Object · Counter App
+│   │   ├── HOL9_ES6Features           →  map() · Arrow Functions · Destructuring
+│   │   ├── HOL10_JSX                  →  JSX Syntax · Inline CSS · Expressions
+│   │   ├── HOL11_EventHandling        →  Synthetic Events · Event Handlers
+│   │   ├── HOL12_ConditionalRender    →  Conditional Rendering · Element Variables
+│   │   └── HOL13_Lists               →  Lists · Keys · map() · Multiple Components
+│   │
+│   └── 🅰️  Angular/
+│       ├── HOL1_Setup                 →  Angular CLI · Project Structure · Components
+│       ├── HOL2_DataBinding           →  Property/Event/Two-Way Binding · Lifecycle
+│       ├── HOL3_Directives_Pipes      →  ngIf/ngFor · ngClass · Custom Directive/Pipe
+│       ├── HOL4_TemplateForms         →  Template-Driven Forms · Validation
+│       ├── HOL5_ReactiveForms         →  FormBuilder · FormArray · Custom Validators
+│       ├── HOL6_Services_DI           →  Services · Dependency Injection · Singleton
+│       ├── HOL7_Routing               →  Guards · Lazy Loading · Route Parameters
+│       ├── HOL8_HttpClient            →  HttpClient · RxJS · Interceptors
+│       ├── HOL9_NgRx                  →  Store · Actions · Reducers · Effects
+│       └── HOL10_Testing              →  Jasmine · Karma · TestBed · MockStore
+│
+└── 📅 Week-6  ── Git & Version Control
+    ├── 🔧 HOL1_GitSetup              →  git init · config · notepad++ integration · add · commit · push · pull
+    ├── 🚫 HOL2_GitIgnore             →  .gitignore · ignoring .log files & log/ folders
+    ├── 🌿 HOL3_BranchingMerging      →  git branch · checkout · P4Merge · merge · log --graph
+    ├── ⚡ HOL4_ConflictResolution    →  Simultaneous edits · 3-way merge · conflict markers · P4Merge
+    └── 🚀 HOL5_RemotePush           →  git pull · push · branch cleanup · GitLab remote sync
 ```
 
 </details>
@@ -330,6 +365,113 @@ SecurityTokenExpiredException  ·  Token-Expired Header  ·  Graceful Error Hand
 
 ---
 
+## 📅 Week 5 — Frontend Development
+
+> **23 hands-on labs** split across two tracks — React JS (13 labs) and Angular v20 (10 hands-on exercises), all building real-world applications from scratch.
+
+---
+
+### ⚛️ Track A — React JS (13 Labs)
+
+> All labs progressively build real React applications — from a first SPA to routing, state, ES6, events, and conditional rendering.
+
+| # | Lab | App Built | Key Concepts |
+|:-:|:----|:----------|:-------------|
+| `01` | HOL1_FirstReactApp | `myfirstreact` | SPA concepts · `create-react-app` · JSX entry point |
+| `02` | HOL2_Components | `StudentApp` | Class components · Multiple components · `render()` |
+| `03` | HOL3_FunctionalComponents | `scorecalculatorapp` | Functional components · Props · CSS Modules |
+| `04` | HOL4_Lifecycle | `blogapp` | `componentDidMount` · `componentDidCatch` · Fetch API |
+| `05` | HOL5_Styling | Cohort Dashboard | CSS Modules · `className` · Inline styles · `style` prop |
+| `06` | HOL6_Routing | `TrainersApp` | React Router · `<Link>` · URL params · Navigation |
+| `07` | HOL7_Props | `shoppingapp` | Props · Default Props · `ReactDOM.render()` |
+| `08` | HOL8_State | `counterapp` | State object · `setState()` · Constructor · Button events |
+| `09` | HOL9_ES6Features | `cricketapp` | `map()` · Arrow functions · Destructuring · Spread/Merge |
+| `10` | HOL10_JSX | `officespacerentalapp` | JSX syntax · `React.createElement()` · Expressions · Inline CSS |
+| `11` | HOL11_EventHandling | `eventexamplesapp` | Synthetic events · `onClick` · `this` · Currency converter |
+| `12` | HOL12_ConditionalRender | `ticketbookingapp` | Conditional rendering · Login/Logout toggle · Element variables |
+| `13` | HOL13_Lists | `bloggerapp` | Lists · Keys · `map()` · Multiple conditional components |
+
+```
+SPA  ·  Virtual DOM  ·  JSX  ·  Class Components  ·  Functional Components
+Props  ·  State  ·  setState()  ·  componentDidMount  ·  componentDidCatch
+React Router  ·  URL Params  ·  CSS Modules  ·  Inline Styles  ·  Synthetic Events
+ES6 map()  ·  Arrow Functions  ·  Destructuring  ·  Spread Operator
+Conditional Rendering  ·  Lists & Keys  ·  ReactDOM.render()
+```
+
+---
+
+### 🅰️ Track B — Angular v20 (10 Hands-On Exercises)
+
+> All exercises build a single **Student Course Portal** SPA — each one adds a new Angular feature layer on top of the previous.
+
+| # | Exercise | Feature Added | Key Concepts |
+|:-:|:---------|:-------------|:-------------|
+| `01` | HOL1_Setup | Project Scaffold | Angular CLI · `ng new` · `ng serve` · `ng build` · Standalone API |
+| `02` | HOL2_DataBinding | Dynamic Bindings | Property/Event/Two-Way Binding · `ngModel` · `@Input` · `@Output` · `EventEmitter` |
+| `03` | HOL3_Directives_Pipes | Course Listing | `*ngIf` · `*ngFor` · `*ngSwitch` · `ngClass` · `ngStyle` · Custom Directive · Custom Pipe |
+| `04` | HOL4_TemplateForms | Enrollment Form | Template-driven forms · `ngForm` · Built-in validators · Error messages · `ng-touched` |
+| `05` | HOL5_ReactiveForms | Reactive Enrollment | `FormBuilder` · `FormGroup` · `FormArray` · Custom sync/async validators |
+| `06` | HOL6_Services_DI | Course & Enrollment | `@Injectable` · `providedIn: 'root'` · Singleton · Service-to-service injection |
+| `07` | HOL7_Routing | Full Navigation | Route params · Query params · Nested routes · Lazy loading · `CanActivate` · `CanDeactivate` |
+| `08` | HOL8_HttpClient | API Integration | `HttpClient` · `Observable` · RxJS `map/tap/catchError/switchMap` · Interceptors · `retry` |
+| `09` | HOL9_NgRx | State Management | NgRx Store · Actions · Reducers · Selectors · Effects · `MockStore` · Redux DevTools |
+| `10` | HOL10_Testing | Unit Tests | Jasmine · Karma · `TestBed` · `fixture` · `@Input/@Output` tests · `HttpClientTestingModule` |
+
+```
+Angular CLI  ·  Standalone Components  ·  Property Binding  ·  Event Binding  ·  Two-Way Binding
+ngModel  ·  @Input  ·  @Output  ·  EventEmitter  ·  Lifecycle Hooks  ·  ngOnInit  ·  ngOnDestroy
+*ngIf  ·  *ngFor  ·  *ngSwitch  ·  ngClass  ·  ngStyle  ·  Custom Directive  ·  Custom Pipe
+Template-Driven Forms  ·  Reactive Forms  ·  FormBuilder  ·  FormArray  ·  Async Validators
+Services  ·  DI  ·  Singleton  ·  Route Guards  ·  Lazy Loading  ·  Route Parameters
+HttpClient  ·  Observables  ·  RxJS  ·  Interceptors  ·  NgRx  ·  Effects  ·  Selectors
+Jasmine  ·  Karma  ·  TestBed  ·  MockStore  ·  HttpClientTestingModule
+```
+
+---
+
+## 📅 Week 6 — Git & Version Control
+
+> **5 hands-on labs** — the final stretch of the program, covering the complete Git workflow: configuration, ignoring files, branching & merging, conflict resolution, and syncing with a remote (GitLab).
+
+| # | Lab | Topic | Key Concepts |
+|:-:|:----|:------|:-------------|
+| `01` | HOL1_GitSetup | Git Configuration & First Commit | `git init` · `git config --global user.name/email` · Notepad++ as default editor (`core.editor`) · `git add` · `git commit` · `git status` · `git push origin master` · `git pull origin master` |
+| `02` | HOL2_GitIgnore | Ignoring Files with `.gitignore` | Creating `.log` files & a `log/` folder · Updating `.gitignore` to exclude `*.log` extensions and folders · Verifying via `git status` |
+| `03` | HOL3_BranchingMerging | Branching & Merging | `git branch "GitNewBranch"` · `git branch -a` (local + remote, `*` = current) · `git checkout` · Commit on branch · Visual diff with **P4Merge** · `git merge` into trunk · `git log --oneline --graph --decorate` · `git branch -d` (delete after merge) |
+| `04` | HOL4_ConflictResolution | Merge Conflict Resolution | Branch `"GitWork"` with `hello.xml` vs. conflicting master edits · `git log --oneline --graph --decorate --all` · `git diff` · Visual diff/3-way merge with **P4Merge** · Resolving conflict markers · Commit resolved file · Adding backup files to `.gitignore` · Cleaning up merged branches |
+| `05` | HOL5_RemotePush | Remote Cleanup & Push | Verifying clean working tree · `git branch -a` · `git pull` (sync remote → local) · `git push` (publish pending commits) · Confirming changes reflected on GitLab remote |
+
+```
+git init  ·  git config  ·  core.editor  ·  Notepad++ Integration  ·  git add  ·  git commit
+git status  ·  git push  ·  git pull  ·  .gitignore  ·  Ignoring Extensions & Folders
+git branch  ·  git checkout  ·  Local vs Remote Branches  ·  P4Merge  ·  git merge
+git log --oneline --graph --decorate  ·  Fast-Forward Merge  ·  Branch Deletion
+3-Way Merge  ·  Conflict Markers  ·  git diff  ·  Conflict Resolution  ·  GitLab Remote Sync
+```
+
+**Lab Highlights**
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  HOL1  →  Configure Git · integrate Notepad++ · init "GitDemo" repo  │
+│           create & track welcome.txt · push/pull to GitLab           │
+│                                                                       │
+│  HOL2  →  Generate .log files & log/ folder · configure .gitignore   │
+│           confirm ignored paths never reach git status               │
+│                                                                       │
+│  HOL3  →  Branch "GitNewBranch" · commit changes · diff via P4Merge  │
+│           merge to trunk · graph log · delete merged branch          │
+│                                                                       │
+│  HOL4  →  Parallel edits to hello.xml on branch "GitWork" & master   │
+│           trigger + resolve a real merge conflict with P4Merge       │
+│                                                                       │
+│  HOL5  →  Final sync — pull, push, and verify changes on GitLab      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -395,14 +537,35 @@ SecurityTokenExpiredException  ·  Token-Expired Header  ·  Graceful Error Hand
 <td>Latest</td>
 </tr>
 <tr>
+<td rowspan="3"><b>Frontend</b></td>
+<td>React JS</td>
+<td>18+</td>
+</tr>
+<tr>
+<td>Angular</td>
+<td>v20</td>
+</tr>
+<tr>
+<td>NgRx</td>
+<td>Latest</td>
+</tr>
+<tr>
 <td><b>Messaging</b></td>
 <td>Apache Kafka</td>
 <td>Latest</td>
 </tr>
 <tr>
-<td><b>IDE & VCS</b></td>
-<td>Visual Studio 2022 · Git</td>
-<td>2022 / Latest</td>
+<td rowspan="3"><b>IDE & VCS</b></td>
+<td>Visual Studio 2022</td>
+<td>2022</td>
+</tr>
+<tr>
+<td>Git · Git Bash · GitLab</td>
+<td>Latest</td>
+</tr>
+<tr>
+<td>P4Merge (3-way merge tool) · Notepad++</td>
+<td>Latest</td>
 </tr>
 </table>
 
@@ -420,6 +583,7 @@ SecurityTokenExpiredException  ·  Token-Expired Header  ·  Graceful Error Hand
 ✔  Visual Studio 2022  with ASP.NET and web development workload
 ✔  Postman  ─  for API testing
 ✔  Apache Kafka + Zookeeper  ─  for Week 3 · Lab 6 only
+✔  Git Bash + P4Merge + Notepad++  ─  for Week 6 · Git labs
 ```
 
 **Clone the repo**
@@ -455,15 +619,45 @@ dotnet run
 # POST /api/auth/login → get token → use as Bearer in headers
 ```
 
----
+**Run Week 5 — React JS**
 
-## 🎯 Skills Gained
+```bash
+cd Week-5/ReactJS/HOL1_FirstReactApp
+npm install
+npm start
+# Open → http://localhost:3000
+```
+
+**Run Week 5 — Angular**
+
+```bash
+cd Week-5/Angular/HOL1_Setup
+npm install -g @angular/cli
+npm install
+ng serve
+# Open → http://localhost:4200
+```
+
+**Run Week 6 — Git labs**
+
+```bash
+cd Week-6/HOL1_GitSetup
+git init
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --global core.editor "notepad++ -multiInst -notabbar -nosession -noPlugin"
+git add welcome.txt
+git commit
+git push origin master
+```
+
+---
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="17%">
 
 **🧱 Foundations**
 ─────────
@@ -473,7 +667,7 @@ Data Structures
 Big-O Analysis
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="17%">
 
 **🎨 Architecture**
 ─────────
@@ -483,7 +677,7 @@ Dependency Injection
 Clean Code
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="17%">
 
 **🗄️ Data**
 ─────────
@@ -493,7 +687,7 @@ LINQ
 Optimistic Concurrency
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="17%">
 
 **🌐 APIs**
 ─────────
@@ -503,7 +697,7 @@ CRUD Operations
 Kafka Messaging
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="17%">
 
 **🔐 Security**
 ─────────
@@ -511,6 +705,26 @@ JWT Auth
 Role-Based Access
 Claims & Tokens
 Token Expiry
+
+</td>
+<td align="center" width="17%">
+
+**⚛️ Frontend**
+─────────
+React JS · Angular
+Components & State
+Routing & Guards
+NgRx · RxJS
+
+</td>
+<td align="center" width="17%">
+
+**🌿 Version Control**
+─────────
+Git Config
+.gitignore
+Branch & Merge
+Conflict Resolution
 
 </td>
 </tr>
@@ -530,12 +744,16 @@ Token Expiry
 │   ◈  15 EF Core labs  —  complete Code-First workflow                 │
 │   ◈   6 Web API labs  —  REST to Kafka-integrated APIs               │
 │   ◈   4 Microservice security exercises  —  JWT end-to-end           │
+│   ◈  13 React JS labs  —  SPA · Components · State · Routing · ES6  │
+│   ◈  10 Angular v20 hands-on  —  Directives · NgRx · Testing        │
+│   ◈   5 Git hands-on labs  —  Config to Conflict Resolution          │
 │   ◈  Role-based authorization with Admin claims                       │
 │   ◈  Graceful token expiry with custom response headers               │
 │   ◈  SOLID principles applied with real C# examples                  │
 │   ◈  4 Design Patterns  —  Singleton · Factory · Builder · Adapter   │
 │   ◈  NUnit test suite  +  Moq dependency isolation                   │
 │   ◈  SQL Server  —  procedures · triggers · transactions             │
+│   ◈  Real 3-way merge conflict resolved with P4Merge                 │
 │   ◈  Professional week-wise folder structure                         │
 │   ◈  Clean commit history  —  portfolio ready                        │
 │                                                                       │
@@ -563,8 +781,9 @@ Feel free to reference it for your own learning.
 ║    👨‍💻  Utkarsh Raj                                           ║
 ║    Cognizant Digital Nurture 5.0                             ║
 ║    .NET Full Stack Engineer Trainee                          ║
-║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+*⭐ If this repo helped you, consider dropping a star!*
 
 </div>
