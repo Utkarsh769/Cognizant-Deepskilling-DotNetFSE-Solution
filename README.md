@@ -43,17 +43,17 @@
 ## 🗺️ Learning Roadmap
 
 ```
-  WEEK 1           WEEK 2           WEEK 3           WEEK 4           WEEK 5           WEEK 6
-───────────      ───────────      ───────────      ───────────      ───────────      ───────────
- Algorithms       EF Core          Web API          Microservices    React JS         Git & VCS
- DataStructures   Code-First       REST+Swagger     JWT Auth         Angular v20      Config & Init
- Design Patterns  LINQ + CRUD      CORS + Kafka     Role-Based       Components       .gitignore
- SOLID + DI       Migrations       JWT in APIs      Token Expiry     Routing          Branching
- NUnit + Moq      Relationships    Custom Filters   Security         State Mgmt       Merge Conflicts
- SQL Server       Concurrency      CRUD via API     Graceful Errors  HTTP + NgRx      Remote Sync
-     │                │                │                │                │                │
-     ▼                ▼                ▼                ▼                ▼                ▼
-  Foundation      Data Layer       API Layer       Security Layer  Frontend Layer   DevOps Layer
+WEEK 1           WEEK 2           WEEK 3           WEEK 4           WEEK 5           WEEK 6           WEEK 7
+───────────      ───────────      ───────────      ───────────      ───────────      ───────────      ───────────
+Algorithms       EF Core          Web API          Microservices    React JS         Git & VCS        GenAI & AI
+DataStructures   Code-First       REST+Swagger     JWT Auth         Angular v20      Config & Init    Agentic AI
+Design Patterns  LINQ + CRUD      CORS + Kafka     Role-Based       Components       .gitignore       Prompt Eng
+SOLID + DI       Migrations       JWT in APIs      Token Expiry     Routing          Branching        Copilot
+NUnit + Moq      Relationships    Custom Filters   Security         State Mgmt       Merge Conflicts  Modern AI
+SQL Server       Concurrency      CRUD via API     Graceful Errors  HTTP + NgRx      Remote Sync      Agile 101
+│                │                │                │                │                │                │
+▼                ▼                ▼                ▼                ▼                ▼                ▼
+Foundation       Data Layer       API Layer       Security Layer  Frontend Layer   DevOps Layer     AI & Agile Layer
 ```
 
 </div>
@@ -471,6 +471,19 @@ git log --oneline --graph --decorate  ·  Fast-Forward Merge  ·  Branch Deletio
 ```
 
 ---
+
+## 📅 Week 7 — AI, Generative AI & Agile Foundations
+
+> **6 core certification modules** completed through **Cognizant Skillspring**, bridging modern full-stack engineering with artificial intelligence, AI-assisted developer tooling, and Agile project management methodologies[cite: 2, 3, 4, 5, 6, 7].
+
+| # | Course / Certification Module | Completion Date | Key Focus Areas & Competencies |
+|:-:|:------------------------------|:----------------|:-------------------------------|
+| `01` | **Fundamentals of Generative AI** | July 08, 2026 | Understanding Large Language Models (LLMs), generative architectures, foundation models, and real-world enterprise use cases[cite: 3]. |
+| `02` | **Introduction to Agentic AI** | July 08, 2026 | Designing autonomous AI agents, multi-agent collaboration, goal-oriented decision workflows, and tool integration[cite: 5]. |
+| `03` | **Foundations of Modern AI** | July 14, 2026 | Core artificial intelligence concepts, machine learning pipelines, deep neural networks, and ethical AI frameworks[cite: 2]. |
+| `04` | **GitHub Copilot Fundamentals Virtual Training** | July 14, 2026 | AI-pair programming, in-IDE code generation, unit test scaffolding, inline explanations, and developer productivity[cite: 4]. |
+| `05` | **ITPM — Introduction to Agile [101-Basics]** | July 14, 2026 | Agile principles, Scrum & Kanban frameworks, sprint planning, backlog grooming, daily standups, and iterative delivery[cite: 6]. |
+| `06` | **Prompt Engineering Foundation** | July 17, 2026 | Crafting effective prompts, zero-shot and few-shot learning, Chain-of-Thought (CoT) reasoning, and output structuring[cite: 7]. |
 
 ## 🛠️ Tech Stack
 
